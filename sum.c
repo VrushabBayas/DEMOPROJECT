@@ -4,6 +4,7 @@ int main()
 {
 	int a = 10, b = 20;
 	int res = addNum(a, b);
+	printf("Hi");
 	return 0;
 }
 
