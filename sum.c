@@ -4,10 +4,10 @@ int main()
 {
 	int a = 10, b = 20;
 	int res = addNum(a, b);
+	printf("Hi");
 	int sub = subtractNum(a, b);
 	printf("Addition is:%d", res);
 	printf("division is:%d", res);
-
 	return 0;
 }
 
